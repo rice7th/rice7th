@@ -1,4 +1,4 @@
-#### Hi, I’m just a weirdo chilling on the internet.
+*I’m just a weirdo, not much to see here.*
 
 I am currently learning Rust (🦀).
 
