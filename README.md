@@ -2,6 +2,6 @@
 
 I am currently learning Rust (🦀).
 
-I Like Linux (🐧), \*BSDs (😈🐡🚩), Plan9front (🐇), SerenityOS (🐞).
+I Like Linux (🐧), \*BSDs (😈🐡🚩), Plan9/9Front (🐇), SerenityOS (🐞).
 
 <!-- How much I've edited this thing exactly?? -->
